@@ -1,0 +1,12 @@
+{
+    "name": "Unified Standard Decentralized Token",
+    "symbol": "USDT",
+    "decimals": 18,
+    "description": "Unified Standard Decentralized Token as a part of the collateral decentralized system",
+    "website": "https://yourwebsite.com",
+    "explorer": "https://bscscan.com/token/0x835Eda7787B81b7Ac22E53bA54125Aa3721Ec740",
+    "type": "ERC20",
+    "status": "active",
+    "id": "0x835Eda7787B81b7Ac22E53bA54125Aa3721Ec740"
+  }
+  
